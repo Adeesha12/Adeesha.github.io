@@ -1,8 +1,8 @@
 ---
 title: Hello 
 date: 2023-06-21 12:00:00 -500 
-categories: [test,python]
-tags: [server, cicd]
+categories: [jekyll,learn]
+tags: [learn, static web page]
 ---
 
 # Welcome
